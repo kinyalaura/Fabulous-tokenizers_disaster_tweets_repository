@@ -21,7 +21,7 @@ Our project intends to predict whether or not a tweet is a  diasater tweet or no
 ## CONTACT INFORMATION
 For email reach us through
   * stellanjeri23@gmail.com
-  * kinyalaura0@gmail.com
+  * ngolua.kinya@gmail.com
   * isaacbyron@gmail.com
   * mwanyunguprecy@gmail.com
   
