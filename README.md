@@ -2,6 +2,7 @@
 
 ![tweet_classification](https://si.wsj.net/public/resources/images/NA-CJ408_TWITTS_9U_20160311133006.jpg)
 
+
 # Project Description
 
 Twitter has become an important communication channel in times of emergency.
@@ -11,10 +12,10 @@ But, it’s not always clear whether a person’s words are actually announcing 
 
 
 ## AUTHORS
- * Stella Njeri
- * Laura Kinya
- * Isaac Byron
- * Precy Mae Mwanyungu
+ * [Stella Njeri](https://github.com/Stella-kimani)
+ * [Isaac Byron](https://github.com/UnplugCharger)
+ * [Precy Mae](https://github.com/PrecyMaeMwanyungu)
+ * [Laura Kinya](https://github.com/kinyalaura)
 
 
 ## SetUp / Installation Requirements
